@@ -1,0 +1,26 @@
+
+header, footer{
+    text-align: center;
+    background-color: #fffdd0;
+    margin-left: 30%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 30%;
+}
+
+.description{
+    padding-left: 30px;
+}
+
+.photo{
+    padding: 30px;
+    padding-bottom: 70px;
+    background-color: #FA9A85;
+}
+table{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+img{
+    width: 150px;
+}
